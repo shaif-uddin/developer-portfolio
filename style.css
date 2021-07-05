@@ -11,7 +11,7 @@ h2{
 .orange-class{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 2%;
 }
