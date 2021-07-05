@@ -53,3 +53,16 @@ h2{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
 }
+#exp-item-1{
+    border-left: 7px solid;
+    border-image:linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
+#exp-item-2{
+    border-left: 7px solid;
+    border-image:linear-gradient(orange,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
