@@ -5,11 +5,15 @@ body{
 h1{
     font-size: 2.8em;
 }
+h2{
+    font-size: 2.4em;
+}
 .orange-class{
     color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 2%;
 }
 .half-width{
     width: 50%;
@@ -31,4 +35,9 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
